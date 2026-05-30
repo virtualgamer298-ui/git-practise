@@ -1,1 +1,3 @@
 my first git repo
+
+learning git is awesome
