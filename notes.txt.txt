@@ -4,4 +4,4 @@ learning git is awesome
 
 git diff is awesome
 
-theme=green
+theme=blue
