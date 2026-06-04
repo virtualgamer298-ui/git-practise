@@ -14,6 +14,9 @@ this repo was created just to learn git and github, so there is nothing in here 
 - Merging
 - Merge Conflicts
 - GitHub Push
+- Creating repo 
+- merge 
+- and learning in process
 
 ## author
 virtualgamer298-ui
